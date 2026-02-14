@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dibay-prakash" alt="dibay-prakash" /></a> </p>
 
-- 🔭 I’m currently working on **nepali sentimental analysis**
+- 🔭 I’m currently working on **nepali intent based hate news classification analysis**
 
 - 🌱 I’m currently learning **machine learning and natural language processing**
 
